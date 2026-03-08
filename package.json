@@ -51,7 +51,6 @@
   "dependencies": {
     "@10xly/global": "^1.1.1",
     "@10xly/strict-equals": "1.0.1",
-    "@characters/right-parenthesis": "2.1.0",
     "@extra-array/head": "^2.10.19",
     "@extra-array/last": "^2.10.19",
     "@falsejs/validation-failed-to-pass-error": "^1.0.1",
@@ -131,7 +130,6 @@
     "simple-lru-cache": "^0.0.2",
     "str-replaceallof-es": "1.0.0",
     "string.prototype.at": "^1.0.6",
-    "string.prototype.replaceall": "1.0.11",
     "string.prototype.split": "^1.0.9",
     "subtract": "^0.0.3",
     "true-value": "^3.0.0",
