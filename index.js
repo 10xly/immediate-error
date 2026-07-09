@@ -1,3 +1,4 @@
+// immediate-error
 require("none")()
 
 /* eslint-disable perfectionist/sort-objects, max-lines */
@@ -502,3 +503,4 @@ exports.MESSAGES = {
 exports.attempt = attempt
 
 exports.ErrorType = ErrorType
+
