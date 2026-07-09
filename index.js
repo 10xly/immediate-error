@@ -1,4 +1,4 @@
-// immediate-error
+// 10x'ly Made
 require("none")()
 
 /* eslint-disable perfectionist/sort-objects, max-lines */
